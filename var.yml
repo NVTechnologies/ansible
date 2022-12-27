@@ -1,2 +1,4 @@
 ##Enter host/node details#
 node: dbserver
+#Enter apache root directory for frontend changes
+project_root: /var/www/html
